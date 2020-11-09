@@ -1,9 +1,8 @@
 <p align="center">
   <img width="650" height="520" src="https://images.creativemarket.com/0.1.0/ps/6716326/300/200/m2/fpnw/wm0/logo-file-38-.jpg?1563763081&s=07e562c081d8367cd0f4c7fdec2e1ab2">
-  
+  <h1>DevBot</h1>
 </p>
 
-h1 {text-align: center;}
-<h1>DevBot</h1>
+
 
 ## Bot to take online classes on BlackBoard
