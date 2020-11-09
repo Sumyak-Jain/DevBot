@@ -3,6 +3,6 @@
   
 </p>
 
--> **DevBot** <-
+ -> **DevBot** <-
 
 ## Bot to take online classes on BlackBoard
