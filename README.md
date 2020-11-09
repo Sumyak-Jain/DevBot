@@ -3,8 +3,6 @@
   
 </p>
 
-<div align=”center”>
-# DevBot
-</div>
+-> **DevBot** <-
 
 ## Bot to take online classes on BlackBoard
