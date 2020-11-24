@@ -1,5 +1,4 @@
 from discord_webhooks import DiscordWebhooks
-
 #Put your discord webhook url here.
 
 webhook_url = ''
