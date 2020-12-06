@@ -13,6 +13,7 @@ driver.get("https://learn.upes.ac.in/")
 #driver.find_element_by_name("q").send_keys("https://learn.upes.ac.in/") 
 time.sleep(3)  
 #click on the Google search button  
+
 print("opened bb") 
 driver.find_element_by_name("user_id").send_keys("..")
 time.sleep(3)
