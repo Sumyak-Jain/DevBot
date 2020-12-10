@@ -10,7 +10,8 @@ print("sample test case started")
 driver = webdriver.Chrome(r"D:\chromedriver\chromedriver.exe")   
 #maximize the window size  
 driver.maximize_window()  
-#navigate to the url  
+#navigate to the url 
+
 #driver.get("https://www.google.com/")
 driver.get("https://learn.upes.ac.in/")  
 #identify the Google search text box and enter the value  
