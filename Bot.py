@@ -5,7 +5,6 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 import re
-
 import os.path
 from os import path
 import sqlite3
