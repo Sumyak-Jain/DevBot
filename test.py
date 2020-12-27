@@ -20,6 +20,7 @@ time.sleep(3)
 print("opened bb") 
 driver.find_element_by_name("user_id").send_keys("")
 time.sleep(3)
+
 print("id done") 
 driver.find_element_by_name("password").send_keys("")
 time.sleep(3)
