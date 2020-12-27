@@ -23,7 +23,6 @@ time.sleep(3)
 print("id done") 
 driver.find_element_by_name("password").send_keys("")
 time.sleep(3)
-
 print("password done")
 driver.find_element_by_xpath("/html/body/div/div/div[2]/div[2]/div[4]/form/div[3]/ul/li[3]/input").click()  
 time.sleep(3)  
