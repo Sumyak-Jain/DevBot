@@ -42,7 +42,6 @@ time.sleep(15)
 button=driver.find_element_by_xpath("/html/body/div[1]/div/div[1]/main/div[1]/div/div/button/div[2]")
 time.sleep(15)
 print(button)
-
 #time.sleep(15)  
 #print("collabrate+1") 
 #time.sleep(5)
