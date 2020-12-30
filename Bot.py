@@ -12,7 +12,6 @@ import schedule
 from datetime import datetime
 from selenium.webdriver.common.action_chains import ActionChains
 import discord_webhook
-
 opt = Options()
 opt.add_argument("--disable-infobars")
 opt.add_argument("start-maximized")
